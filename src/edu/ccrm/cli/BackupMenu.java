@@ -6,9 +6,6 @@ import java.nio.file.Path;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Menu for backup operations.
- */
 public class BackupMenu implements Menu {
     private final MenuHandler handler;
     private final BackupService backupService;
