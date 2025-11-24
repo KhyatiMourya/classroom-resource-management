@@ -16,7 +16,6 @@ A comprehensive Java-based application for managing student enrollment, courses,
 ```
 ccrm-java-project/
 ├── data/               # CSV data files
-├── screenshots/        # Application screenshots
 └── src/               # Source code
     └── edu/
         └── ccrm/      # Main package
